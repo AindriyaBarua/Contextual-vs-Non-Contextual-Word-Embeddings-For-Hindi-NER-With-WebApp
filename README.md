@@ -1,4 +1,5 @@
-# Dynamic Mode Decomposition based feature for Image Classification [![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with-MATLAB%20-brightgreen.svg)](https://in.mathworks.com/products/matlab.html?requestedDomain=) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
+# Contextual vs Non-Contextual Word Embeddings For Hindi NER With WebApp
+ [![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with-MATLAB%20-brightgreen.svg)](https://in.mathworks.com/products/matlab.html?requestedDomain=) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
 This repo consists of all the codes and dataset of the research paper, **"[Dynamic Mode Decomposition based feature for Image Classification]()"**.
 
 # THE CODES WILL BE RELEASED AFTER THE PAPER GETS ACCEPTED. Star this repository and click on watch button in top right to get notified!!
