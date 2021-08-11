@@ -8,7 +8,7 @@ Web Application For Data Collection](https://www.researchgate.net/publication/34
 
 
 ## Abstract :
-Abstract. Named Entity Recognition (NER) is the process of taking a string and identifying relevant proper nouns in it. In this paper ‡ we report the development of the Hindi NER system, in Devanagari script, using various embedding models. We categorize embeddings as Contextual and Non-contextual, and further compare them inter and intra-category. Un-
+Named Entity Recognition (NER) is the process of taking a string and identifying relevant proper nouns in it. In this paper ‡ we report the development of the Hindi NER system, in Devanagari script, using various embedding models. We categorize embeddings as Contextual and Non-contextual, and further compare them inter and intra-category. Un-
 der non-contextual type embeddings, we experiment with Word2Vec and FastText, and under the contextual embedding category, we experiment with BERT and its variants, viz. RoBERTa, ELECTRA, CamemBERT, Distil-BERT, XLM-RoBERTa. For non-contextual embeddings, we use five machine learning algorithms namely Gaussian NB, Adaboost Classifier, Multi-layer Perceptron classifier, Random Forest Classifier, and Decision Tree Classifier for developing ten Hindi NER systems, each,
 once with Fast Text and once with Gensim Word2Vec word embedding models. These models are then compared with Transformers based contextual NER models, using BERT and its variants. A comparative study among all these NER models is made. Finally, the best of all these models is used and a web app is built, that takes a Hindi text of any length and
 returns NER tags for each word and takes feedback from the user about the correctness of tags. These feed-backs aid our further data collection. 
