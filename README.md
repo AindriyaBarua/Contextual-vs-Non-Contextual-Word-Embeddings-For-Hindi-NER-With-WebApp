@@ -1,20 +1,25 @@
 # Contextual vs Non-Contextual Word Embeddings For Hindi NER With WebApp
  [![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with-MATLAB%20-brightgreen.svg)](https://in.mathworks.com/products/matlab.html?requestedDomain=) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
-This repo consists of all the codes and dataset of the research paper, **"[]()"**.
+This repo consists of all the codes and dataset of the research paper, **"[Analysis Of Contextual and Non-Contextual
+Word Embedding Models For Hindi NER With
+Web Application For Data Collection](https://www.researchgate.net/publication/349190662_Analysis_of_Contextual_and_Non-contextual_Word_Embedding_Models_for_Hindi_NER_with_Web_Application_for_Data_Collection)"**.
 
-# THE CODES WILL BE RELEASED AFTER THE PAPER GETS ACCEPTED. Star this repository and click on watch button in top right to get notified!!
 
-<!---
+
+
 ## Abstract :
-Intrusion detection system (IDS) has become an essential layer in all the latest ICT system due to an urge towards cyber safety in the day-to-day world. Reasons including uncertainty in ﬁnding the types of attacks and increased the complexity of advanced cyber attacks, IDS calls for the need of integration of Deep Neural Networks (DNNs). In this paper, DNNs have been utilized to predict the attacks on Network Intrusion Detection System (N-IDS). A DNN with 0.1 rate of learning is applied and is run for 1000 number of epochs and KDDCup-’99’ dataset has been used for training and benchmarking the network. For comparison purposes, the training is done on the same dataset with several other classical machine learning algorithms and DNN of layers ranging from 1 to 5. The results were compared and concluded that a DNN of 3 layers has superior performance over all the other classical machine learning algorithms. 
+Abstract. Named Entity Recognition (NER) is the process of taking a string and identifying relevant proper nouns in it. In this paper ‡ we report the development of the Hindi NER system, in Devanagari script, using various embedding models. We categorize embeddings as Contextual and Non-contextual, and further compare them inter and intra-category. Un-
+der non-contextual type embeddings, we experiment with Word2Vec and FastText, and under the contextual embedding category, we experiment with BERT and its variants, viz. RoBERTa, ELECTRA, CamemBERT, Distil-BERT, XLM-RoBERTa. For non-contextual embeddings, we use five machine learning algorithms namely Gaussian NB, Adaboost Classifier, Multi-layer Perceptron classifier, Random Forest Classifier, and Decision Tree Classifier for developing ten Hindi NER systems, each,
+once with Fast Text and once with Gensim Word2Vec word embedding models. These models are then compared with Transformers based contextual NER models, using BERT and its variants. A comparative study among all these NER models is made. Finally, the best of all these models is used and a web app is built, that takes a Hindi text of any length and
+returns NER tags for each word and takes feedback from the user about the correctness of tags. These feed-backs aid our further data collection. 
 
 ## Keywords : 
-Intrusion detection, deep neural networks, machine learning, deep learning 
+Gaussian NB · Adaboost Classifier · Multi-layer Perceptron classifier · Random Forest Classifier · Decision Tree Classifier · Gensim Word2Vec · FastText · Transformer · BERT · RoBERTa · ELECTRA · CamemBERT · Distil-BERT · XLM-RoBERTa 
 
 ## Authors :
-**[Rahul-Vigneswaran K](https://rahulvigneswaran.github.io)**<sup>∗</sup>, [Vinayakumar R](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)<sup>†</sup>, [Soman KP](https://scholar.google.co.in/citations?user=R_zpXOkAAAAJ&hl=en)<sup>†</sup> and [Prabaharan Poornachandran](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)<sup>‡</sup> 
-
-**<sup>∗</sup>Department of Mechanical Engineering, Amrita Vishwa Vidyapeetham, India.** <br/> 
+**[Aindriya Barua]()**<sup>∗</sup>, [Thara.S]()<sup>†</sup>, [Premjith B]()<sup>†</sup> and [Soman KP]()<sup>‡</sup> 
+<!---
+**<sup>∗</sup>Department of Computer Science Engineering, Amrita Vishwa Vidyapeetham, India.** <br/> 
 <sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
 <sup>‡</sup>Center for Cyber Security Systems and Networks, Amrita School of Engineering, Amritapuri Amrita Vishwa Vidyapeetham, India.
 
