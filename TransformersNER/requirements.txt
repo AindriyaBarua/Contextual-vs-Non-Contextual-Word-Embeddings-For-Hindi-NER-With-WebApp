@@ -1,0 +1,8 @@
+setuptools
+mysqlclient
+sklearn
+tensorflow
+matplotlib
+simpletransformers
+numpy
+
