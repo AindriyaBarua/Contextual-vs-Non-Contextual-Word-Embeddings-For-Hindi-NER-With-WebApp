@@ -4,6 +4,9 @@ This repo consists of all the codes and dataset of the research paper, **"[Analy
 Word Embedding Models For Hindi NER With
 Web Application For Data Collection](https://www.researchgate.net/publication/349190662_Analysis_of_Contextual_and_Non-contextual_Word_Embedding_Models_for_Hindi_NER_with_Web_Application_for_Data_Collection)"**.
 
+**If you use any part of resources provided in this repo, kindly cite the following:**
+Barua, A., Thara, S., Premjith, B. and Soman, K.P., 2020, December. Analysis of Contextual and Non-contextual Word Embedding Models for Hindi NER with Web Application for Data Collection. In International Advanced Computing Conference (pp. 183-202). Springer, Singapore.
+**Thank you!**
 
 
 
