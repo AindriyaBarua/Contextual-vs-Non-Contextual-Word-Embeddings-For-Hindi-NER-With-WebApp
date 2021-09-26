@@ -61,7 +61,7 @@ def fit_classifier(X_train, y_train):
         print("Classifier:" , clf_name)
         clf = clfs[clf_name]
         clf.fit(X_train, y_train, class_weight = class_weights)
-        pickle.dump(clf, open(clf_name + '_mode.pkl', 'wb'))
+        pickle.dump(clf, open(clf_name + '_model.pkl', 'wb'))
 
     return clf
 
