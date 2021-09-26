@@ -1,0 +1,10 @@
+setuptools
+mysqlclient
+pandas
+sklearn
+keras
+tensorflow
+matplotlib
+fasttext
+gensim
+
