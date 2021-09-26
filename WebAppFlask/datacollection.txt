@@ -1,0 +1,3 @@
+गूगल : datenum,दिल्ली : datenum,के : datenum,राहुल : datenum,को : datenum,काम : datenum,करने : datenum,में : datenum,मदद : datenum,करता : datenum,है : datenum,नवंबर : datenum,में : datenum,
+नरेंद्र : datenum,मोदी : datenum,2019 : datenum,में : datenum,भारत : datenum,के : datenum,नेता : datenum,हैं : other,
+नरेंद्र : name,मोदी : datenum,2019 : datenum,में : datenum,भारत : datenum,के : datenum,नेता : occupation,हैं : datenum,
