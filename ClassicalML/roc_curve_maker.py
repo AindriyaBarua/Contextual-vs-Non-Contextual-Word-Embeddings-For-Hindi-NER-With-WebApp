@@ -1,4 +1,12 @@
-# Created by Aindriya Barua at
+"""
+Developed by Aindriya Barua in April, 2019
+Code for paper https://www.researchgate.net/publication/349190662_Analysis_of_Contextual_and_Non-contextual_Word_Embedding_Models_for_Hindi_NER_with_Web_Application_for_Data_Collection
+This project does Named Entity Recognition for Hindi, using either of the two Non-Contextual Word Embedding Models as dicussed in the paper, FastText and Word2Vec, with Classical ML classifiers
+
+If you use any part of the resources provided in this repo, kindly cite:
+Barua, A., Thara, S., Premjith, B. and Soman, K.P., 2020, December. Analysis of Contextual and Non-contextual Word Embedding Models for Hindi NER with Web Application for Data Collection. In International Advanced Computing Conference (pp. 183-202). Springer, Singapore.
+"""
+
 from pandas import np
 from sklearn.preprocessing import label_binarize
 
