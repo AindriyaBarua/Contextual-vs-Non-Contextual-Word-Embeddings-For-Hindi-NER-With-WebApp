@@ -1,5 +1,4 @@
 # Contextual vs Non-Contextual Word Embeddings For Hindi NER With WebApp
-## Result:
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/analysis-of-contextual-and-non-contextual/named-entity-recognition-on-iecsil-fire-2018)](https://paperswithcode.com/sota/named-entity-recognition-on-iecsil-fire-2018?p=analysis-of-contextual-and-non-contextual)  
  
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
