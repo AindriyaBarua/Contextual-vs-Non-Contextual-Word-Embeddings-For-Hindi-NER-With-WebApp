@@ -1,5 +1,8 @@
 # Contextual vs Non-Contextual Word Embeddings For Hindi NER With WebApp
- [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
+## Result:
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/analysis-of-contextual-and-non-contextual/named-entity-recognition-on-iecsil-fire-2018)](https://paperswithcode.com/sota/named-entity-recognition-on-iecsil-fire-2018?p=analysis-of-contextual-and-non-contextual)  
+ 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]() 
 This repo consists of all the codes and dataset of the research paper, **"[Analysis Of Contextual and Non-Contextual
 Word Embedding Models For Hindi NER With
 Web Application For Data Collection](https://www.researchgate.net/publication/349190662_Analysis_of_Contextual_and_Non-contextual_Word_Embedding_Models_for_Hindi_NER_with_Web_Application_for_Data_Collection)"**.
